@@ -29,8 +29,4 @@ The two runs aren't directly comparable, because the first used a balanced subse
 
 `python evaluate.py` reproduces the table above (`pip install torch pillow scikit-learn`). For the original notebook:
 
-Set `Datadir` and `Testing_dir` in `CNN.ipynb` to your image folders (filenames need the `Company_...jpg` pattern), then run the cells. To view the search runs:
-
-```
-tensorboard --logdir Logs
-```
+Set `Datadir` and `Testing_dir` in `CNN.ipynb` to your image folders (filenames need the `Company_...jpg` pattern), then run the cells.
