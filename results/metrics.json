@@ -1,0 +1,18 @@
+{
+  "images": 60945,
+  "makes": 31,
+  "car_models": 287,
+  "largest_class_share": 0.08333743539256706,
+  "random_split": {
+    "accuracy": 0.5562392320945114,
+    "balanced_accuracy": 0.562914752929999,
+    "macro_f1": 0.5582336057975535,
+    "test_images": 12189
+  },
+  "unseen_models_split": {
+    "accuracy": 0.17070972587307548,
+    "balanced_accuracy": 0.15355292079520577,
+    "macro_f1": 0.12105351049325513,
+    "test_images": 13315
+  }
+}
